@@ -1,6 +1,6 @@
 # site settings
-title: ENGL
-subtitle: 258
+title: ENGL-258
+subtitle: 
 email: sgotzler@unc.edu
 description: Games and Literature
 baseurl: "/ENGL-258" # the subpath of your site, e.g. /blog
