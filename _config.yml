@@ -1,17 +1,17 @@
 # site settings
-title: ENGL-258
-subtitle: 
+title: ENGL
+subtitle: 258
 email: sgotzler@unc.edu
-description: Games and Literature
+description: Spring 2024 | M-W 1:25-2:40 PM | Greenlaw Gameroom (GL 316)
 baseurl: "/ENGL-258" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 
+city: UNC Chapel Hill
+state: 
+zip_code: 
+country: 
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/sgotzler
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus: 
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn:
+  Twitter: 
   Facebook:
   Slack:
 
