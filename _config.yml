@@ -6,7 +6,7 @@ description: Spring 2024 | M-W 1:25-2:40 PM | Greenlaw Gameroom (GL 316)
 baseurl: "/ENGL-258" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 
+street_address: Greenlaw 313
 city: UNC Chapel Hill
 state: 
 zip_code: 
