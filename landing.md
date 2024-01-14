@@ -25,7 +25,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/banner.jpg %}" alt="" data-position="center center" />
+			<img src="{% link https://sgotzler.gihub.io/ENGL-258/assets/images/banner.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
