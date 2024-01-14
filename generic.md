@@ -80,7 +80,7 @@ Twice throughout the semester, in week 8 and week 15 we will dedicate class time
 
 The first set of side-quests available to students will be shared at the end of week 2 (**01.19.24**), all students must submit at least 1 completed side-quest assignment no later than the end of week 15 (**04.26.24**). 
 
-More specific information regarding this assignment can be found on the [**Side Quests**]() page of the course website.
+More specific information regarding this assignment can be found on the [**Side Quests**](https://sgotzler.github.io/ENGL-258/elements.html) page of the course website.
 
 ---
 
