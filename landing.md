@@ -158,7 +158,7 @@ nav-menu: true
 				</header>
 				<p><strong>Honoring Rebel Ancestors</strong>
 				</p>
-				<p><strong>Discuss:</strong> Goldstein Sepinwall from <em>Slave Revolt on Screen</em>
+				<p><strong>Discuss:</strong> Goldstein Sepinwall from <em>Slave Revolt on Screen</em> (2021)
 				</p>
 				<p><strong>Play:</strong> <em>Freedom: Rebels in the Dark</em>
 				</p>
@@ -236,7 +236,7 @@ nav-menu: true
 				</header>
 				<p><strong>Detections of Totality</strong>
 				</p>
-				<p><strong>Discuss:</strong> Jameson, "Cognitive Mapping" (1990)
+				<p><strong>Discuss:</strong> Lynch, "The City Image and its Elements" from <em>The Image of the City</em> (1960)
 				</p>
 				<p><strong>Play:</strong> <em>Disco Elysium</em>
 				</p>
