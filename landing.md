@@ -64,7 +64,7 @@ nav-menu: true
 				</header>
 				<p><strong>Pastoral Poetry and the Farm Simulator</strong>
 				</p>
-				<p><strong>Discuss:</strong> Theocritus, <em>Idyll</em> 1; Virgil, <em>Georgics</em> Book Two, <em>Eclogues</em> 1; Andrew Marvell, "The Garden"; William Wordsworth from <em>Lyrical Ballads</em></p>
+				<p><strong>Discuss:</strong> Theocritus, <em>Idyll</em> 1; Virgil, <em>Georgics</em> Book One, <em>Eclogues</em> 1; Andrew Marvell, "The Garden"; William Wordsworth from <em>Lyrical Ballads</em></p>
 				<p><strong>Play:</strong> <em>Stardew Valley</em>
 				</p>
 				<p> <strong>Readings</strong> <a href="https://uncch.instructure.com/courses/50647/files/folder/readings" target="_blank">Accessible via Canvas</a></p>
