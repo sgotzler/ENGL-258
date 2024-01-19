@@ -33,7 +33,7 @@ nav-menu: true
 					<h3>Week 1 - Introduction to the Course</h3>
 				</header>
 				<p>Overview of Course Materials and Peer Introductions</p>
-				<p> <strong>Review</strong> <a href="https://uncch.instructure.com/courses/50647/files?preview=6433866" target="_blank">Syllabus</a>
+				<p> <strong>Review</strong> <a href="https://uncch.instructure.com/courses/50647/files?preview=6470971" target="_blank">Syllabus</a>
 				</p>
 			</div>
 		</div>
