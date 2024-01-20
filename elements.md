@@ -31,7 +31,7 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>High Concept Design Sketch</h3>
-		<p>This side-quest assignment asks you to sketch a high concept for a game design that uses meaningful play to make an argument, or offer a provocation, about some aspect of historical, political, or cultural significance. These high concept sketches should use critical insights to re-frame fundamental design consideations like: What are players trying to do? What kinds of decisions or relationships will the game ask players to confront or inhabit?</p>
+		<p>This side-quest assignment asks you to sketch a high concept for a game design that uses meaningful play to make an argument, or offer a provocation, about some aspect of historical, political, or cultural significance. These high concept sketches should use critical insights to re-frame fundamental design considerations like: What are players trying to do? What kinds of decisions or relationships will the game ask players to confront or inhabit?</p>
 		<p><strong>Further Details on </strong><a href="https://uncch.instructure.com/courses/50647/assignments/383199" target="_blank">Canvas</a></p>
 	</div>
 
