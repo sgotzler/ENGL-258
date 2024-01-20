@@ -19,6 +19,19 @@ nav-menu: true
 <h2 id="content">Self-Directed Mid-Term</h2>
 <p>In this course, we will be engaging in self-directed learning through a system of side quests. In brief, at least once during the semester students will complete an assignment chosen from a list of several possible options, and as the semester progresses new side-quests will become available, increasing the range of student choice. 
 </p>
-<p>These side-quests assignments will pose a combination of both creative and critical challenges to students and are designed to leverage aspects of self-directed learning to enhance student engagement by emphasizing autonomy, mastery, and purpose.</p>
-<p><em><strong>More Information Coming Soon!</strong></em>
-</p>
+<p>These side-quests assignments will pose a combination of both creative challenges and critical explorations for students and are designed to leverage aspects of self-directed learning to enhance student engagement by emphasizing autonomy, mastery, and purpose.</p>
+
+<hr class="major" />
+
+<div class="row">
+	<div class="6u 12u$(small)">
+		<h3>Autobiography of Play</h3>
+		<p>This side-quest assignment asks you to reflect upon your own experience of meaningful play, and consider what factors (social, historical, geographical, cultural, etc.) may have figured importantly in shaping that experience. It will ask you to reflect upon questions such as: How have I come to understand my own relationship to games? What factors might have been important in shaping that relationship? What, or where, is my gaming community and who am I when I am “at home” there?</p> 
+		<p><strong>Further Details on </strong><a href="https://uncch.instructure.com/courses/50647/assignments/383194" target="_blank">Canvas</a></p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>High Concept Design Sketch</h3>
+		<p>This side-quest assignment asks you to sketch a high concept for a game design that uses meaningful play to make an argument, or offer a provocation, about some aspect of historical, political, or cultural significance. These high concept sketches should use critical insights to re-frame fundamental design consideations like: What are players trying to do? What kinds of decisions or relationships will the game ask players to confront or inhabit?</p>
+		<p><strong>Further Details on </strong><a href="https://uncch.instructure.com/courses/50647/assignments/383199" target="_blank">Canvas</a></p>
+	</div>
+
