@@ -34,4 +34,8 @@ nav-menu: true
 		<p>This side-quest assignment asks you to sketch a high concept for a game design that uses meaningful play to make an argument, or offer a provocation, about some aspect of historical, political, or cultural significance. These high concept sketches should use critical insights to re-frame fundamental design considerations like: What are players trying to do? What kinds of decisions or relationships will the game ask players to confront or inhabit?</p>
 		<p><strong>Further Details on </strong><a href="https://uncch.instructure.com/courses/50647/assignments/383199" target="_blank">Canvas</a></p>
 	</div>
-
+<div class="6u$ 12u$(small)">
+		<h3><em>Stardew</em> Poetry</h3>
+		<p>This side-quest assignment asks you to compose a pastoral poem inspired by the gameplay of <em>Stardew Valley</em>. For this side-quest, students are encouraged to take a cut-and-mix approach to poetic composition by interweaving selections from the poetry we read in class (e.g., whole lines, specific images, details, or poetic constructions) with textual elements drawn from <em>Stardew's</em> gameplay (e.g., NPC dialogue, non-diegetic textual instructions, or diegetic textual references, allusions, and description).</p>
+		<p><strong>Further Details on </strong><a href="https://uncch.instructure.com/courses/50647/assignments/385923" target="_blank">Canvas</a></p>
+	</div>
