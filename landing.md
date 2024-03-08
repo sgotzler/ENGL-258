@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Description</h2>
 		</header>
-		<p>Human beings have been playing games for as long as they have been telling stories. In this course, students will explore the shared affordances of games and literature as tools for understanding the world, and for shaping our relationships to each other and ourselves. Part hands-on gaming studio, part literature seminar—students will play a range of digital and analog games while reading key works of English literature to consider the shared affordances of literature and games: as frameworks for play, mechanisms for world-building, and equipment for living.</p>
+		<p>Human beings have been playing games for as long as they have been telling stories. In this course, students will explore the capacity of both games and literature to inform our understanding of the world, and for shaping our relationships to each other and ourselves. Part hands-on gaming studio, part literature seminar—students will play a range of digital and analog games while reading key works of English literature to consider the shared affordances of literature and games: as frameworks for play, mechanisms for world-building, and equipment for living.</p>
 		<p>First, we’ll briefly examine the tradition of pastoral poetry while playing digital farm simulators to consider the deep cultural connections between play, nature, and human environment-making. Then, we’ll read the early English novel <em>Robinson Crusoe</em> alongside counter-canonical texts like Olaudah Equiano’s <em>The Interesting Narrative</em>, a memoir of enslavement and emancipation, and C.L.R. James’ three act play dramatizing the Haitian Revolution, <em>Touissant Louverture</em>. Taking up the interconnected histories of the English novel and racial capitalism we’ll generate insights about the centrality of possessive individualism, unfree labor, and colonialism as frameworks for modern play. Next, we’ll look to the narrative mechanics of detective fiction as a distinctive approach to world-building that stretches across both literary and gaming cultures. We’ll read a classic short novel by Arthur Conan Doyle and a hardboiled novel by Raymond Chandler to reveal how the formulaic build-blockings of detective fiction (e.g., finding clues, mapping social space) mirror the investigative mechanics of social deduction games. Finally, we’ll read Virginia Woolf’s <em>Orlando: A Biography</em> while playing small indie RPGs to unpack normative notions of gendered identity and explore the potentials, and the limitations, of role-playing games as a medium of self-invention. 
 		</p>
 	</div>
@@ -64,7 +64,7 @@ nav-menu: true
 				</header>
 				<p><strong>Pastoral Poetry and the Farm Simulator</strong>
 				</p>
-				<p><strong>Discuss:</strong> Theocritus, <em>Idyll</em> 1; Virgil, <em>Georgics</em> Book One, <em>Eclogues</em> 1; Andrew Marvell, "The Garden"; William Wordsworth from <em>Lyrical Ballads</em></p>
+				<p><strong>Discuss:</strong> Theocritus, <em>Idyll</em> 1; Virgil, <em>Georgics</em> Book Two, <em>Eclogues</em> 1; Andrew Marvell, "The Garden"; William Wordsworth from <em>Lyrical Ballads</em></p>
 				<p><strong>Play:</strong> <em>Stardew Valley</em>
 				</p>
 				<p> <strong>Readings</strong> <a href="https://uncch.instructure.com/courses/50647/files/folder/readings" target="_blank">Accessible via Canvas</a></p>
