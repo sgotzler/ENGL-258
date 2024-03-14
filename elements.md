@@ -21,6 +21,10 @@ nav-menu: true
 </p>
 <p>These side-quests assignments will pose a combination of both creative challenges and critical explorations for students and are designed to leverage aspects of self-directed learning to enhance student engagement by emphasizing autonomy, mastery, and purpose.</p>
 
+<!-- Two -->
+<section id="two">
+
+<!-- Content -->
 <hr class="major" />
 
 <div class="row">
