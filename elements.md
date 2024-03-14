@@ -49,4 +49,3 @@ nav-menu: true
 		<p>This side-quest assignment asks you to re-write the rules to an existing game design. Your re-writes should critique, subvert, counteract, or simply re-imagine the operative frameworks for play that emerge from the game when played according to its original rules. For this side-quest, students are encouraged to tackle a game that is relatively simple, and culturally familiar, (e.g., Monopoly, RISK, Clue), or one that we have examined and/or played in class (e.g., Settlers of Catan, or Puerto Rico).</p>
 		<p><strong>Further Details on </strong><a href="https://uncch.instructure.com/courses/50647/assignments/406466" target="_blank">Canvas</a></p>
 	</div>
-</div>
