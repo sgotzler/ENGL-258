@@ -35,8 +35,6 @@ nav-menu: true
 		<p><strong>Further Details on </strong><a href="https://uncch.instructure.com/courses/50647/assignments/383199" target="_blank">Canvas</a></p>
 	</div>
 	
-<hr class="major" />
-
 <div class="row">
 	<div class="6u$ 12u$(small)">
 		<h3><em>Stardew</em> Poetry</h3>
@@ -49,8 +47,6 @@ nav-menu: true
 		<p><strong>Further Details on </strong><a href="https://uncch.instructure.com/courses/50647/assignments/405909" target="_blank">Canvas</a></p>
 	</div>
 	
-<hr class="major" />
-
 <div class="row">
 	<div class="6u$ 12u$(small)">
 		<h3>Rules Re-Write</h3>
