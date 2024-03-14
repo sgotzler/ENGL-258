@@ -35,7 +35,8 @@ nav-menu: true
 		<p><strong>Further Details on </strong><a href="https://uncch.instructure.com/courses/50647/assignments/383199" target="_blank">Canvas</a></p>
 	</div>
 	
-<div class="row">
+<div class="container">
+     <div class="row">
 	<div class="6u$ 12u$(small)">
 		<h3><em>Stardew</em> Poetry</h3>
 		<p>This side-quest assignment asks you to compose a pastoral poem inspired by the gameplay of <em>Stardew Valley</em>. For this side-quest, students are encouraged to take a cut-and-mix approach to poetic composition by interweaving selections from the poetry we read in class (e.g., whole lines, specific images, details, or poetic constructions) with textual elements drawn from <em>Stardew's</em> gameplay (e.g., NPC dialogue, non-diegetic textual instructions, or diegetic textual references, allusions, and description).</p>
@@ -46,6 +47,8 @@ nav-menu: true
 		<p>This side-quest assignment asks you to investigate a historical topic of interest to you. For instance, examining a single literary author’s life and career, the reception of a literary work, or the development and release of a notable game. You might also investigate broader aspects of historical context related to games and literature, such as a literary circle or movement or the history of a particular genre of game, or the advent of a new gaming technology.</p>
 		<p><strong>Further Details on </strong><a href="https://uncch.instructure.com/courses/50647/assignments/405909" target="_blank">Canvas</a></p>
 	</div>
+     </div>
+</div>
 	
 <div class="row">
 	<div class="6u$ 12u$(small)">
