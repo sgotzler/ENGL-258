@@ -312,7 +312,7 @@ nav-menu: true
 				</header>
 				<p><strong>Course Wrap-Up and Feedback Survey</strong>
 				</p>
-				<p><strong>Submit:</strong> Portfolio Contributions <strong>DUE Friday, 05/03</strong>
+				<p><strong>Submit:</strong> Portfolio Contributions <strong>DUE Monday, 05/06</strong>
 				</p>
 			</div>
 		</div>
