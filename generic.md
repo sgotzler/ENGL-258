@@ -8,7 +8,7 @@ nav-menu: true
 
 ### Required Materials
 
-In addition to excerpts from critical and scholarly sources, we will also be setting ourselves several works to read in their entirety. As such, students will need to acquire full text copies of two novels. PDF extracts of other sources such as selected excerpts, and several critical and scholarly readings will also be distributed through [Canvas](https://uncch.instructure.com/courses/64653). 
+In addition to excerpts from scholarly sources, we will also be setting ourselves several works to read in their entirety. As such, students will need to acquire full text copies of two novels. PDF extracts of other sources such as selected short stories, and critical readings on games and literature will also be distributed through [Canvas](https://uncch.instructure.com/courses/64653). 
 
 Students will be required to acquire copies of the following texts for the course:
 
