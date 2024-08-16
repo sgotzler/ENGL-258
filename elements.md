@@ -17,10 +17,12 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">In-Class Play Sessions</h2>
-<p>Throughout the term we will be engaging in critical play sessions during class time to explore, experiment with, analyze and critique a range of digital and analog games. The embodied and affective dimensions of play can elicit powerful feelings — e.g., of joy, animosity, or even vulnerability — which students may not usually encounter in the classroom. Our gameplay activities are designed to furnish a critical perspective on games as culture, and we will strive to create an environment for exploring alternate play practices that embrace difference. As such, our gameplay activities should be undertaken in a critically engaged spirit that welcomes participation from players of all backgrounds and from all levels of gaming experience or ability — these activities are <strong>never</strong> really about winning.
+<p>Throughout the term we will be engaging in critical play sessions during class time to explore, experiment with, analyze and critique a range of digital and analog games. The embodied and affective dimensions of play can elicit powerful feelings — of joy, animosity, or even vulnerability — which students may not usually encounter in the classroom. 
+
+Our gameplay activities are designed to furnish a critical perspective on games as culture, and we will strive to create an environment for exploring alternate play practices that embrace difference. As such, our gameplay activities should be undertaken in a critically engaged spirit that welcomes participation from players of all backgrounds and from all levels of gaming experience or ability — these activities are <strong>never</strong> about winning.
 </p>
 
-<h2 id="content">Extended Play/h2>
+<h2 id="content">Extended Play</h2>
 <p>In addition to our normal class meetings, we will be holding several “extended play sessions” throughout the term. These will operate like screenings for a film course and will provide us with the space and time necessary to engage with long-form gameplay of select titles. 
 These are mandatory events and will serve as out of class time towards your credit hours, the same way reading a novel outside of class for homework would. 
 </p>
