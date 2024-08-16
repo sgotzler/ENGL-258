@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gameplay Activities
-image: assets/images/side-quest1.jpg
+image: assets/images/side-quest2.png
 nav-menu: true
 ---
 
