@@ -84,7 +84,8 @@ nav-menu: true
 				</p>
 				<p><strong>Play:</strong> <em>The Witcher III</em>
 				</p>
-				<p><strong>Discuss:</strong> Defoe, <em>Robinson Crusoe</em> (1719)</p>
+				<p><strong>Discuss:</strong> Tolkien, <em>The Silmarillion</em> (1977) and <em> The Hobbit</em> (1937)</p>
+				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
@@ -99,11 +100,11 @@ nav-menu: true
 				</header>
 				<p><strong>Textual Ruins and Metafictional Gestures</strong>
 				</p>
-				<p><strong>Discuss:</strong> Equiano, <em>The Interesting Narrative</em> (1789)
+				<p><strong>Discuss:</strong> Tolkien, <em>The Lord of the Rings</em> (1954-5)
 				</p>
-				<p><strong>Play:</strong> <em>Settlers of Catan</em>; <em>Puerto Rico</em>
+				<p><strong>Play:</strong> <em>The Witcher III</em>
 				</p>
-				<p> <strong>Readings</strong> <a href="https://uncch.instructure.com/courses/50647/files/folder/readings" target="_blank">Accessible via Canvas</a></p>
+				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
@@ -118,10 +119,8 @@ nav-menu: true
 				</header>
 				<p><strong>Agency and Self-Invention</strong>
 				</p>
-				<p><strong>Discuss:</strong> James, <em>Toussaint Louverture - The Story of the Only Successful Slave Revolt in History</em> (1934)
-				</p>
-				<p>W 02/14 - pp.49-133
-				</p>
+				<p><strong>Discuss:</strong> Peterson, "The Two Cultures" and <em>Dungeons and Dragons, 1st Ed.</em></p>
+				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
@@ -136,11 +135,10 @@ nav-menu: true
 				</header>
 				<p><strong>Roleplay and Collaborative Storytelling</strong>
 				</p>
-				<p><strong>Discuss:</strong> James, <em>The Black Jacobins</em> (1938)
+				<p><strong>Discuss:</strong><em>Wanderhome</em> 
 				</p>
-				<p><strong>Play:</strong> <em>Assassin's Creed: Freedom Cry</em>
+				<p><strong>Play:</strong><em>Wanderhome</em>
 				</p>
-				<p> <strong>Readings</strong> <a href="https://uncch.instructure.com/courses/50647/files/folder/readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
@@ -155,11 +153,9 @@ nav-menu: true
 				</header>
 				<p><strong>The Mechanics of the Mystery Formula</strong>
 				</p>
-				<p><strong>Discuss:</strong> Goldstein Sepinwall from <em>Slave Revolt on Screen</em> (2021)
+				<p><strong>Discuss:</strong> Todorov, "The Typology of Detective Fiction" and Conan Doyle <em>The Hound of the Baskervilles</em> (1902)
 				</p>
-				<p><strong>Play:</strong> <em>Freedom: Rebels in the Dark</em>
-				</p>
-				<p> <strong>Readings</strong> <a href="https://uncch.instructure.com/courses/50647/files/folder/readings" target="_blank">Accessible via Canvas</a></p>
+				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
@@ -174,12 +170,8 @@ nav-menu: true
 				</header>
 				<p><strong>Social Deduction Games</strong>
 				</p>
-				<p><strong>Discuss:</strong> Conan Doyle, <em>The Hound of the Baskervilles</em> (1902)
-				</p>
-				<p>M 03/04 - pp.3-70
-				</p>
-				<p>W 03/06 - pp.70-143
-				</p> 
+				<p><strong>Discuss:</strong> <em>Blood on the Clocktower</em></p> 
+				<p><strong>Play:</strong> <em>Blood on the Clocktower</em></p>
 			</div>
 		</div>
 	</section>
@@ -194,11 +186,11 @@ nav-menu: true
 				</header>
 				<p><strong>Gothic Fiction and Literary Form</strong>
 				</p>
-				<p><strong>Discuss:</strong> Todorov, "The Typology of the Detective Story" (1966)
+				<p><strong>Discuss:</strong> Stoker, <em>Dracula</em> (1897)
 				</p>
-				<p><strong>Play:</strong> <em>Blood on the Clocktower</em>
+				<p><strong>Play:</strong> <em>Thousand-Year-Old Vampire</em>
 				</p>
-				<p> <strong>Readings</strong> <a href="https://uncch.instructure.com/courses/50647/files/folder/readings" target="_blank">Accessible via Canvas</a></p>
+				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
@@ -211,14 +203,11 @@ nav-menu: true
 				<header class="major">
 					<h3>Week 11 - Cosmic Horror</h3>
 				</header>
-				<p><strong>The Psychopathology of Race</strong>
+				<p><strong>Lovecraft & the Psychopathology of Race</strong>
 				</p>
-				<p><strong>Discuss:</strong> Chandler, <em>The Big Sleep</em> (1939)
+				<p><strong>Discuss:</strong> Lovecraft, "The Call of Cthulhu" and "The Dunwich Horror"; "Supernatural Horror in Literature"
 				</p>
-				<p>M 03/25 - pp.3-119
-				</p>
-				<p>W 03/27 - pp.120-231
-				</p> 
+				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
