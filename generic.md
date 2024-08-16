@@ -8,91 +8,71 @@ nav-menu: true
 
 ### Required Materials
 
-In addition to excerpts from critical and scholarly sources, we will also be setting ourselves several works to read in their entirety. As such, students will need to acquire full text copies of a handful of novels, and a play. PDF extracts of other sources such as selected poems, and several critical and scholarly readings will also be distributed through [Canvas](https://uncch.instructure.com/courses/50647). 
+In addition to excerpts from critical and scholarly sources, we will also be setting ourselves several works to read in their entirety. As such, students will need to acquire full text copies of two novels. PDF extracts of other sources such as selected excerpts, and several critical and scholarly readings will also be distributed through [Canvas](https://uncch.instructure.com/courses/64653). 
 
 Students will be required to acquire copies of the following texts for the course:
 
 <ul>
-	<li>Daniel Defoe, <em>Robinson Crusoe</em> (1719) — <strong>ISBN-13:</strong> 978-0199553976</li>
+	<li>Bram Stoker, <em>Dracula</em> (1897) — <strong>ISBN-13:</strong> 978-0199564095</li>
 	<li>Arthur Conan Doyle, <em>The Hound of the Baskervilles</em> (1902) — <strong>ISBN-13:</strong> 	978-0198835226</li>
-	<li>Virginia Woolf, <em>Orlando: A Biography</em> (1928) — <strong>ISBN-13:</strong> 978-1447479161 </li>
-	<li>C.L.R. James, <em>Toussaint Louverture – A Play in Three Acts</em> (1934) — <strong>ISBN-13:</strong> 978-0822353140
-	<li>Raymond Chandler, <em>The Big Sleep</em> (1939) — <strong>ISBN-13:</strong> 978-0394758282</li>
 </li></ul>
 
 All games will be provided for either as digital or hard copies in the Greenlaw Gameroom, or as PDF copies distributed on canvas.
 
 |**Video Games** | **Board Games** | **Roleplaying Games**|
 |*Stardew Valley* (2016) | *Settlers of Catan* (1995) | *The 1000-Year-Old Vampire* (2019) |
-|*Assassin's Creed: Freedom Cry* (2013) | *Puerto Rico* (2002) | *Wanderhome* (2020) |
-|*Disco Elysium* (2019) | *Molly House* (2024) | *Blood on the Clocktower* (2022) |
-|*Cyberpunk: 2077* (2022)|
+|*Octodad* (2014) | *Unfathomable* (2021) | *Wanderhome* (2020) |
+|*Disco Elysium* (2019) | *Blood on the Clocktower* (2022) | *Dungeons & Dragons 1st Ed.* (1978) |
+|*Cyberpunk: 2077* (2022) |
+|*The Witcher III: Wild Hunt* (2015) |
 
 ### Assignments & Expectations
 
 ---
 
-#### Weekly Readings and Gameplay
+#### Weekly Reading and Gameplay
 Everything we do in this course will be rooted in two core activities: close reading and critical play. 
 
-Critical and scholarly sources will be excerpted, and uploaded to Canvas. Several of these readings will be required during the first two weeks, but will become optional once the peer discussion facilitation begins (weeks 3-7; 9; 11-14). That being said, students are encouraged to examine or skim optional readings at their discretion and according to their inclination, as many may be helpful for developing their final projects. 
+A significant portion of our class time in the Gameroom will be used to facilitate critical play of featured games. To facilitate this, we will work together to play, watch, and discuss these texts and objects at the 5 gaming stations in small groups, or as one large group together. Aside from play sessions, the course will run mostly as a discussion-based seminar, where we will explore the literature we read, as well as the games we play together through critical conversation. 
 
-A significant portion of our class time in the Gameroom will be used to facilitate critical play of featured titles. To facilitate this, we will work together to play, watch, and discuss these titles at the 5 gaming stations in small groups.
+More specific information regarding play sessions can be found on the [**Gameplay Activities**](https://sgotzler.github.io/ENGL-258/elements.html) page of the course website.
 
-*Expectation and Effort:* In addition to seminar discussions and gameplay sessions held during class time, students will be expected to complete a regular twice-weekly reading load of anywhere between 90-120 pages (45-60 pages of fiction per day for each class session, M/W).  The category “Attendance and Participation” accounts for 10% of the final grade in this course. Participation is assessed by your record of attendance, the frequency and quality of your contributions to discussion, and 2 self-assessment surveys (at mid-term, and end of term). The best way to ensure full credit for participation is to stay on top of the weekly reading assignments—including rulebooks or other game related preparatory materials—and come to class prepared to contribute to discussion, and/or engage in the play session with the appropriate level of critical focus.
+*Expectation and Effort*: In addition to seminar discussions and gameplay sessions held during class time, students will be expected to complete a regular weekly reading load of anywhere between 90-120 pages (45-60 pages of fiction per day for each class session, M/W). 
 
----
-
-#### Play Journal Essays
-In this course, we will be keeping course journals. These journals will be created and maintained independently by the students, and are designed to provide a space for students to engage in deliberate guided reflection and practical experimentation related to games and literature. 
-
-Twice throughout the semester, students will use the notes and observations contained in these play journals to produce a thesis driven essay that presents a comparative analysis of a literary text that we have read and a game that we have played. Students will do this once for each—so 1 essay focusing on a game in light of literary study, and 1 essay focusing on a literary text in light of critical gaming. In the course of their argument, student’s essays should use the literary and critical gaming concepts we discuss in class to develop their claims, and should draw upon salient textual details as supporting evidence (i.e., theme, setting, mechanic, narrative structure, symbol, player experience, etc.).
-
-*Expectations and Effort:* Essays should be approx. 500-750 words in length. I will distribute further materials about best practices for writing critical essays at a later date, and we’ll model literary and gamic analysis in our reading discussions and gameplay activities. [Play Journal Essay Rubric is available on Canvas](https://uncch.instructure.com/courses/50647/assignments/379809), essays will be assessed on 25 pt. scale across 5 categories: structure, argument, evidence, language, and presentation.
-
-These essays will be submitted on a rolling basis over two windows throughout the term. Students are required to submit one essay during each window. 
-
-The first essay submission window will open on **Friday 02.02.24** and close on **Friday 03.01.24**. 
-
-The second essay submission window will open on **Friday 03.22.24** and close on **Friday 04.19.24**. 
+A small number of selected critical readings will be excerpted and assigned as mandatory reading. However, most of the reading in the course will consist of popular fiction. Weeks focusing more on gameplay, and less on literature, may also entail rulebooks, game handbooks or character creation systems as required assigned reading. As the term progresses, I will continue to share uploads of critical selections related the games and literature that we are discussing as assigned reading.
 
 ---
 
-#### Discussion Facilitation
-Once during the semester students will work in groups of 2-3 to take on responsibility to facilitate discussion during a class session. 
+#### Play Journals
+In this course, we will be keeping course journals. These journals will be created and maintained independently by the students and are designed to provide a space for students to engage in deliberate guided reflection and practical experimentation related to games and literature. 
 
-Think of this less as a formal presentation, and more as a commitment to conduct extra preparation. During the week that you facilitate, you will be responsible for not only keeping up with the 90-120 pages of fiction reading, but also putting together a plan for facilitating discussion (e.g., open-ended questions, guiding observations, points for debate). Facilitation will only account for a fraction of that day’s activities, roughly 1/3 (i.e., 25-30 min) – you do not need to construct an 80min lecture, you simply are responsible for getting our conversation started that week.
+These journals will be used to collect notes, observations, and insights generated in the course of our critical play activities in class. These notes and observations will then form the basis of short critical reflections about the games we engage with during our in-class and extended play sessions as a part of the course. In their journal entries, students should use the literary and critical gaming concepts we discuss in class to combine a critical reflection about their situated experience of play, with an analytical discussion of the game’s formal qualities (i.e., aesthetics, mechanics, narrative, cultural context).
 
-*Expectations and Effort:* Students will need to coordinate with their partner(s) and correspond with the instructor in advance (either on email or over zoom) to ensure that prep is going smoothly. 
+*Expectations and Effort*: Each journal entry should range from 250-400 words in length and must be written in complete sentences and paragraph form. Finished journal entries should not take more than 30-45min each to draft from previously collected notes, however they should take at least 15min of effort.
+The journals will be completed on a rolling basis throughout the term, using a 5pt scale (structure & organization – 1pt, critical insight – 2pt, and use of evidence – 2pt). Individual journal entries will be assessed, and grades recorded twice throughout the term:
 
-**NOTE:** While students are encouraged to sign-up for the week whose content interests them most, they should also think carefully about which week works best for their workload in their other classes, and schedule accordingly. [Facilitation Rubric is available on Canvas](https://uncch.instructure.com/courses/50647/assignments/379802), this assignment will be assessed on a 30-pt. scale, covering: planning, preparation, and execution.
-
-Students may schedule a slot for facilitation duties using this [**Sign-Up Sheet**](https://docs.google.com/spreadsheets/d/1pIV1e6BwB4eSKCSTZp3vYZjTxJKghnZW-tfq-zPInXI/edit?usp=sharing)
-
----
-
-#### Side Quests: Self-Directed Mid-Term
-In this course, we will be engaging in self-directed learning through a system of side quests. In brief, at least once during the semester students will complete an assignment chosen from a list of several possible options, and as the semester progresses new side-quests will become available, increasing the range of student choice. 
-
-These side-quests assignments will pose a combination of both creative and critical challenges to students and are designed to leverage aspects of self-directed learning to enhance student engagement by emphasizing autonomy, mastery, and purpose.
-
-Twice throughout the semester, in week 8 and week 15 we will dedicate class time to a ‘showcase’ of completed side-quests, where students will give a brief presentation on their chosen projects and receive feedback from their peers. All students are required to complete at least 1 side-quest during the semester, but if they choose to complete additional side-quests there will be opportunities to earn extra credit towards their final grade. 
-
-The first set of side-quests available to students will be shared at the end of week 2 (**01.19.24**), all students must submit at least 1 completed side-quest assignment no later than the end of week 15 (**04.26.24**). 
-
-More specific information regarding this assignment can be found on the [**Side Quests**](https://sgotzler.github.io/ENGL-258/elements.html) page of the course website.
+**Assessment for entries 1-4 – Friday 09.20.24 @ 11:59PM ET**
+**Assessment for entries 5-8 – Friday 11.01.24 @ 11:59PM ET**
 
 ---
 
 #### FINAL: Class Portfolio Contribution
-The capstone assignment for this course will be a contribution to a class portfolio that collects our various explorations of, and interventions in, the study of games and literature. Contributions to class portfolio may take a number of specific forms, but in general will fall into 1 of 2 general categories: 
+The capstone assignment for this course will be a contribution to a class portfolio collecting a series of critical design projects. Students will work in small groups to research, design, test, and produce small text-based critical games. 
 
->**Research Essay Contributions** — approaching topics in critical gaming and literary study through a critical essay that engages in secondary research. Critical essays should exhibit lively but informative prose, and address a generally educated public audience. They should bring the resources of literary study and/or critical gaming to bear on a particular theme, issue, or text of interest that directly engages with the course questions. For example, exploring the politics of form, the history of genre formations, specific authors/books or designers/games, or adaptation studies. Critical Essays should be between 1500-2500 words in length, or 8-10min in audio or video format, and they must utilize 3-5 secondary sources.
+These games can, and perhaps should, have a clear narrative element, but more importantly, they must present and elaborate some sort of critical argument or theoretical insight — about games, or about literature, or both — drawn from, or inspired by, our course conversations throughout the term. 
 
->**Game Design Contributions** — approaching topics in critical gaming and literary study through a creative project in game design. These might include: using web apps like TWINE to develop a text-based digital game, writing an original campaign narrative, developing a character creation system, player’s guide, or monster manual for a role-playing game, or even putting together a prototype of a board game or card game. Game Design contributions will be accompanied by a brief designer’s note (500-750 words) that communicates the designer’s choices, and explains their critical intent. They must also include any additional necessary procedural documents (e.g., rulebooks, installation instructions, etc.)
+Beyond that, portfolio contributions may take several different forms, for example: as a campaign narrative, monster manual or game world sourcebook, as a character creation system, a journaling game, prompt-based collaborative exercise, a choice-based branching narrative, or interactive visual novel, to name only a few. In crafting their designs students may choose to create digital games using software like TWINE, or create analog games utilizing pen and paper, or incorporating basic components such as dice or a simple deck of cards.
 
-*Expectation and Effort:* Students will schedule a 1-on-1 conference with their instructor at mid-term to begin brainstorming ideas for their contribution. This meeting will be followed by the submission of a brief, but formal, proposal for their portfolio contribution. These proposals should be no more than 2 pages in length and should include: (1) a description of the student’s project choice, (2) a justification of the project’s relevance to the course aims and content, (3) a preliminary outline of a plan of work w/timeline for completing the project.
+As such, portfolio contributions will differ slightly in the range of their components and the appearance of the final ‘product,’ however every contribution project will include the following: 
 
-These contributions will be collected, and published online in a course website via TarHeels.live  
+- **Proposal** - a proposal outlining scope, purpose, and relevance of proposed game design
+- **Critical Designer's Note** - an essay outlining the critical intention behind the game’s design
+- **Research Bibliography** - a bibliography of secondary and primary sources related to the project
+- **Progress Report** - a report on design project’s progress, and identifying obstacles
+- **Documentation** - rulebooks, relevant instructions, file packages, URL's, etc.
+- **Components** - final documents/layouts, visualizations, assets, physical components, etc.
+  
+*Expectation and Effort:* Students will spend the last 3-4 weeks of the term developing their portfolio contributions. This process will begin with the submission of a brief, but formal, proposal for their portfolio contribution, continue through a sequence of in-class workshops covering research, design, and production, leading onto a progress report on the state of the project near the end of the semester, and culminating in an class exhibition during the final exam period where we will present and play our games as a class.
 
-Class Portfolio Contributions will be due **Friday, 05/03/24**
+
+Proposals will be submitted in week 8, and final portfolio contributions will be due on **Monday 12.09.24**.
