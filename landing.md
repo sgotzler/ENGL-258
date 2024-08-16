@@ -229,7 +229,6 @@ nav-menu: true
 				<p><strong>From Proposal to Prototype</strong>
 				</p>
 				<p><strong>M/W - 11/04-06</strong> Goal Setting and Group Formation</p>
-				<p><strong>F - 11/08</strong> Proposals DUE</p>
 				<p><strong>M/w - 11/11-13</strong> Research and Design Workshops</p>
 				<p><strong>M/W - 11/18-20</strong> Production and Prototyping Workshops</p>
 			</div>
@@ -242,11 +241,12 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Week 15 - Thanksgiving Holiday</h3>
+					<h3>Week 15 - Thanksgiving</h3>
 				</header>
-				<p><strong>NO CLASS</strong>
+				<p><strong>Holiday Break</strong>
 				</p>
 				<p><strong>M - 11/25</strong> Progress Report Check-In DUE</p>
+				<p><strong>W - 11/27</strong> NO CLASS</p>
 			</div>
 		</div>
 	</section>
@@ -261,7 +261,9 @@ nav-menu: true
 				</header>
 				<p><strong>Course Wrap-Up and Feedback Survey</strong>
 				</p>
-				<p><strong>Submit:</strong> Portfolio Contributions <strong>DUE Monday, 05/06</strong>
+				<p><strong>M - 12/02</strong> Review and Revision Workshop</p>
+				<p><strong>W - 12/04</strong> Conclusion</p>
+				<p><strong>Submit:</strong> Portfolio Contributions <strong>DUE Monday, 12/09</strong>
 				</p>
 			</div>
 		</div>
