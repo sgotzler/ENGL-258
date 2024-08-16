@@ -65,8 +65,8 @@ nav-menu: true
 				</header>
 				<p><strong>Myth, Legend, and Fairy Tale</strong>
 				</p>
-				<p><strong>M - 09/02 LABOR</strong></p>
-				<p><strong>W - 09/04</strong> Tolkien, "On Fairy Stories" and "Mythopoeia"</p>
+				<p><strong>M - 09/02 LABOR DAY</strong></p>
+				<p><strong>W - 09/04</strong> Discuss Tolkien, "On Fairy Stories" and "Mythopoeia"</p>
 				<p> <strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a>
 				</p>
 			</div>
@@ -138,7 +138,7 @@ nav-menu: true
 				<p><strong>Roleplay and Collaborative Storytelling</strong>
 				</p>
 				<p><strong>M - 09/30</strong> Character Creation Exercise</p>
-				<p><strong>T - 10/01 EXT Play</strong><em>Wanderhome</em>
+				<p><strong>T - 10/01 EXT Play</strong> <em>Wanderhome</em>
 				</p>
 				<p><strong>W - 10/02</strong> Discuss <em>Wanderhome</em></p>
 			</div>
@@ -209,7 +209,7 @@ nav-menu: true
 				</header>
 				<p><strong>Lovecraft & the Psychopathology of Race</strong>
 				</p>
-				<p><strong>M - 10/28</strong> Discuss Lovecraft, "The Call of Cthulhu" and "The Dunwich Horror"; "Supernatural Horror in Literature"
+				<p><strong>M - 10/28</strong> Discuss Lovecraft, "The Call of Cthulhu" and "The Dunwich Horror"
 				</p>
 				<p><strong>T - 10/29 EXT Play</strong> <em> Unfathomable</em></p>
 				<p><strong>W - 10/30</strong> Discuss <em>Unfathomable</em></p>
@@ -226,12 +226,12 @@ nav-menu: true
 				<header class="major">
 					<h3>Week 12-14 - Project Development</h3>
 				</header>
-				<p><strong>Detections of Totality</strong>
+				<p><strong>From Proposal to Prototype</strong>
 				</p>
-				<p><strong>Discuss:</strong> Lynch, "The City Image and its Elements" from <em>The Image of the City</em> (1960)
-				</p>
-				<p><strong>Play:</strong> <em>Disco Elysium</em>
-				</p>
+				<p><strong>M/W - 11/04-06</strong> Goal Setting and Group Formation</p>
+				<p><strong>F - 11/08</strong> Proposals DUE</p>
+				<p><strong>M/w - 11/11-13</strong> Research and Design Workshops</p>
+				<p><strong>M/W - 11/18-20</strong> Production and Prototyping Workshops</p>
 			</div>
 		</div>
 	</section>
@@ -244,13 +244,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Week 15 - Thanksgiving Holiday</h3>
 				</header>
-				<p><strong>Queer Joy and Recuperative History</strong>
+				<p><strong>NO CLASS</strong>
 				</p>
-				<p><strong>Discuss:</strong> Flanagan, <em>Critical Play</em> (2009) [selections]
-				</p>
-				<p><strong>Play:</strong> <em>Molly House</em>
-				</p>
-				<p> <strong>Readings</strong> <a href="https://uncch.instructure.com/courses/50647/files/folder/readings" target="_blank">Accessible via Canvas</a></p>
+				<p><strong>M - 11/25</strong> Progress Report Check-In DUE</p>
 			</div>
 		</div>
 	</section>
