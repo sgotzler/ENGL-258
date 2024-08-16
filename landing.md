@@ -85,7 +85,6 @@ nav-menu: true
 				<p><strong>Play:</strong> <em>The Witcher III</em>
 				</p>
 				<p><strong>Discuss:</strong> Defoe, <em>Robinson Crusoe</em> (1719)</p>
-				
 			</div>
 		</div>
 	</section>
