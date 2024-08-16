@@ -2,7 +2,7 @@
 title: Overview and Outline
 layout: landing
 description: 'Course Description and Weekly Schedule of Readings + Activities'
-image: assets/images/overview-and-outline.jpg
+image: assets/images/overview-and-outline2.png
 nav-menu: true
 ---
 
