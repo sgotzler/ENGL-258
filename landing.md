@@ -32,8 +32,8 @@ nav-menu: true
 					<h3>Week 1 - Introduction to the Course</h3>
 				</header>
 				<p>Overview of Course Materials and Peer Introductions</p>
-				<p><strong>Review</strong> <a href="https://uncch.instructure.com/courses/64653/files/?preview=8283733" target="_blank">Syllabus</a></p>
-				<p><strong>Discuss:</strong> Nguyen, "Games: Agency as Art"; Burke, "Literature as Equipment for Living"</p>
+				<p><strong>M - 08/19</strong> Review <a href="https://uncch.instructure.com/courses/64653/files/?preview=8283733" target="_blank">Course Syllabus</a></p>
+				<p><strong>W - 08/21</strong> Discuss Nguyen and Burke</p>
 				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
@@ -47,8 +47,8 @@ nav-menu: true
 				<header class="major">
 					<h3>Week 2 - Frameworks for Play</h3>
 				</header>
-				<p><strong>Discuss:</strong> Salen & Zimmerman, "Meaningful Play" and Jagoda, "Experimental Play"; Chang, 					"Close Play" and Flanagan, "Critical Play"</p>
-				<p><strong>Play:</strong> <em>Stardew Valley</em> and <em>Settlers of Catan</em>; <em>Octodad</em> and 					<em>Disco Elysium</em></p>
+				<p><strong>M - 08/26</strong> Discuss Salen & Zimmerman and Jagoda; Play <em>Stardew Valley</em> and <em>Settlers of Catan</em></p>
+				<p><strong>W - 08/28</strong> Discuss Chang and Flanagan; Play <em>Octodad</em> and <em>Disco Elysium</em></p>
 				<p> <strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a>
 				</p>
 			</div>
