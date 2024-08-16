@@ -14,5 +14,5 @@ show_tile: false
 
 **Office Hours:** [Greenlaw Hall, 313](https://maps.unc.edu/buildings/greenlaw-hall/)
 
-| Tuesdays, 10:00AM-11:00AM (virtual) | Fridays, 1:00PM-3:00PM (in-person) |
+| Tuesdays, 03:00PM-04:30PM | Fridays, 1:00PM-2:30PM |
 
