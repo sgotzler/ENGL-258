@@ -65,7 +65,8 @@ nav-menu: true
 				</header>
 				<p><strong>Myth, Legend, and Fairy Tale</strong>
 				</p>
-				<p><strong>Discuss:</strong> Tolkien, "On Fairy Stories" and "Mythopoeia"</p>
+				<p><strong>M - 09/02 LABOR</strong></p>
+				<p><strong>W - 09/04</strong> Tolkien, "On Fairy Stories" and "Mythopoeia"</p>
 				<p> <strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a>
 				</p>
 			</div>
@@ -82,9 +83,9 @@ nav-menu: true
 				</header>
 				<p><strong>Space, Place, and the Epic</strong>
 				</p>
-				<p><strong>Play:</strong> <em>The Witcher III</em>
+				<p><strong>M - 09/09</strong> Play and Discuss <em>The Witcher III</em>
 				</p>
-				<p><strong>Discuss:</strong> Tolkien, <em>The Silmarillion</em> (1977) and <em> The Hobbit</em> (1937)</p>
+				<p><strong>W - 09/11</strong> Discuss Tolkien, <em>The Silmarillion</em> (1977) and <em> The Hobbit</em> (1937)</p>
 				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
@@ -100,9 +101,9 @@ nav-menu: true
 				</header>
 				<p><strong>Textual Ruins and Metafictional Gestures</strong>
 				</p>
-				<p><strong>Discuss:</strong> Tolkien, <em>The Lord of the Rings</em> (1954-5)
+				<p><strong>M - 09/16</strong> Play and Discuss <em>The Witcher III</em>
 				</p>
-				<p><strong>Play:</strong> <em>The Witcher III</em>
+				<p><strong>W - 09/18</strong> Discuss Tolkien, <em>The Lord of the Rings</em> (1954-5)
 				</p>
 				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
@@ -119,7 +120,8 @@ nav-menu: true
 				</header>
 				<p><strong>Agency and Self-Invention</strong>
 				</p>
-				<p><strong>Discuss:</strong> Peterson, "The Two Cultures" and <em>Dungeons and Dragons, 1st Ed.</em></p>
+				<p><strong>M - 09/23 WELLNESS DAY</strong> </p>
+				<p><strong>W - 09/25</strong> Discuss Peterson, "The Two Cultures" and <em>Dungeons and Dragons, 1st Ed.</em></p>
 				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
@@ -135,10 +137,10 @@ nav-menu: true
 				</header>
 				<p><strong>Roleplay and Collaborative Storytelling</strong>
 				</p>
-				<p><strong>Discuss:</strong><em>Wanderhome</em> 
+				<p><strong>M - 09/30</strong> Character Creation Exercise</p>
+				<p><strong>T - 10/01 EXT Play</strong><em>Wanderhome</em>
 				</p>
-				<p><strong>Play:</strong><em>Wanderhome</em>
-				</p>
+				<p><strong>W - 10/02</strong> Discuss <em>Wanderhome</em></p>
 			</div>
 		</div>
 	</section>
@@ -153,7 +155,8 @@ nav-menu: true
 				</header>
 				<p><strong>The Mechanics of the Mystery Formula</strong>
 				</p>
-				<p><strong>Discuss:</strong> Todorov, "The Typology of Detective Fiction" and Conan Doyle <em>The Hound of the Baskervilles</em> (1902)
+				<p><strong>M - 10/07</strong> Discuss Todorov, "The Typology of Detective Fiction"</p>
+				<p><strong>W - 10/09</strong> Discuss Conan Doyle <em>The Hound of the Baskervilles</em> (1902)
 				</p>
 				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
@@ -170,8 +173,9 @@ nav-menu: true
 				</header>
 				<p><strong>Social Deduction Games</strong>
 				</p>
-				<p><strong>Discuss:</strong> <em>Blood on the Clocktower</em></p> 
-				<p><strong>Play:</strong> <em>Blood on the Clocktower</em></p>
+				<p><strong>M - 10/14</strong> Lying to Your Friends is Fun!</p> 
+				<p><strong>T - 10/15 EXT Play</strong> <em>Blood on the Clocktower</em></p>
+				<p><strong>W - 10/16</strong> Discuss <em> Blood on the Clocktower</em></p>
 			</div>
 		</div>
 	</section>
@@ -186,9 +190,9 @@ nav-menu: true
 				</header>
 				<p><strong>Gothic Fiction and Literary Form</strong>
 				</p>
-				<p><strong>Discuss:</strong> Stoker, <em>Dracula</em> (1897)
+				<p><strong>M - 10/21</strong> Discuss Stoker, <em>Dracula</em> (1897)
 				</p>
-				<p><strong>Play:</strong> <em>Thousand-Year-Old Vampire</em>
+				<p><strong>W - 10/23</strong> Play <em>Thousand-Year-Old Vampire</em>
 				</p>
 				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
@@ -205,8 +209,10 @@ nav-menu: true
 				</header>
 				<p><strong>Lovecraft & the Psychopathology of Race</strong>
 				</p>
-				<p><strong>Discuss:</strong> Lovecraft, "The Call of Cthulhu" and "The Dunwich Horror"; "Supernatural Horror in Literature"
+				<p><strong>M - 10/28</strong> Discuss Lovecraft, "The Call of Cthulhu" and "The Dunwich Horror"; "Supernatural Horror in Literature"
 				</p>
+				<p><strong>T - 10/29 EXT Play</strong> <em> Unfathomable</em></p>
+				<p><strong>W - 10/30</strong> Discuss <em>Unfathomable</em></p>
 				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
