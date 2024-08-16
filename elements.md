@@ -17,10 +17,10 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">In-Class Play Sessions</h2>
-<p>Throughout the term we will be engaging in critical play sessions during class time to explore, experiment with, analyze and critique a range of digital and analog games. The embodied and affective dimensions of play can elicit powerful feelings — of joy, animosity, or even vulnerability — which students may not usually encounter in the classroom. 
+<p>Throughout the term we will be engaging in critical play sessions during class time to explore, experiment with, analyze, and critique a range of digital and analog games. The embodied and affective dimensions of play can elicit powerful feelings — of joy, animosity, or even vulnerability — which students may not usually encounter in the classroom. 
 </p>
 
-<p>Our gameplay activities are designed to furnish a critical perspective on games as culture, and we will strive to create an environment for exploring alternate play practices that embrace difference. As such, our gameplay activities should be undertaken in a critically engaged spirit that welcomes participation from players of all backgrounds and from all levels of gaming experience or ability — these activities are <strong>never</strong> about winning.
+<p>Our gameplay activities are designed to furnish a critical perspective on games as culture, and we will strive to create an environment for exploring alternate play practices that embrace difference. As such, our gameplay activities should be undertaken in a critically engaged spirit that welcomes participation from players of all backgrounds and from all levels of gaming experience or ability — these activities are <strong>never</strong> about winning. Alternatively, they will often be about discovering the cultural ramifications of what winning <em>means</em>, what winning <em>looks like</em>, or how winning <em>works</em> in a given game.
 </p>
 
 <h2 id="content">Extended Play Sessions</h2>
