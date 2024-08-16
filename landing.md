@@ -33,7 +33,8 @@ nav-menu: true
 				</header>
 				<p>Overview of Course Materials and Peer Introductions</p>
 				<p><strong>Review</strong> <a href="https://uncch.instructure.com/courses/64653/files/?preview=8283733" target="_blank">Syllabus</a></p>
-				<p><strong>Readings</strong> Nguyen, "Games: Agency as Art"; Burke, "Literature as Equipment for Living" <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a>
+				<p><strong>Discuss:</strong> Nguyen, "Games: Agency as Art"; Burke, "Literature as Equipment for Living"
+				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a>
 			</div>
 		</div> 
 	</section>
