@@ -16,8 +16,7 @@ nav-menu: true
 			<h2>Description</h2>
 		</header>
 		<p>Human beings have been playing games for as long as they have been telling stories. In this course, students will explore the capacity of both games and literature to inform our understanding of the world, and for shaping our relationships to each other and ourselves. Part hands-on gaming studio, part literature seminar—students will play a range of digital and analog games while reading key works of English literature to consider the shared affordances of literature and games: as frameworks for play, mechanisms for world-building, and equipment for living.</p>
-		<p>First, we’ll briefly examine the tradition of pastoral poetry while playing digital farm simulators to consider the deep cultural connections between play, nature, and human environment-making. Then, we’ll read the early English novel <em>Robinson Crusoe</em> alongside counter-canonical texts like Olaudah Equiano’s <em>The Interesting Narrative</em>, a memoir of enslavement and emancipation, and C.L.R. James’ three act play dramatizing the Haitian Revolution, <em>Touissant Louverture</em>. Taking up the interconnected histories of the English novel and racial capitalism we’ll generate insights about the centrality of possessive individualism, unfree labor, and colonialism as frameworks for modern play. Next, we’ll look to the narrative mechanics of detective fiction as a distinctive approach to world-building that stretches across both literary and gaming cultures. We’ll read a classic short novel by Arthur Conan Doyle and a hardboiled novel by Raymond Chandler to reveal how the formulaic build-blockings of detective fiction (e.g., finding clues, mapping social space) mirror the investigative mechanics of social deduction games. Finally, we’ll read Virginia Woolf’s <em>Orlando: A Biography</em> while playing small indie RPGs to unpack normative notions of gendered identity and explore the potentials, and the limitations, of role-playing games as a medium of self-invention. 
-		</p>
+		<p>In this course, we will read works in several popular genres of fiction including fantasy literature, detective fiction, and horror. In each case, we’ll analyze the historical intersections of literary tradition and form in relation to the influence these popular genres have had on games and gaming culture. First, we’ll read the selected works of J.R.R. Tolkien to trace the fantasy genre’s historical origins in myths, legends, and fairy tales, and consider how the narrative strategies of fantasy writing have been reproduced, or subverted, by role-playing and open-world adventure games like Dungeons & Dragons and The Witcher III. Next, we will look to detective fiction's distinctive approach to narrative form which stretches across both literary and gaming cultures. We will read a classic short novel by Arthur Conan Doyle to reveal how the formulaic building-blocks of the murder mystery (e.g., finding clues, mapping social space) mirror the investigative mechanics of social deduction games. Finally, we’ll consider the classic horror stories of Bram Stoker and H.P. Lovecraft to examine patterns of narrative fragmentation and the mechanics of hidden information, using them as keys to understanding anxieties about gendered bodies in Victorian England and the psychopathology of race in modern America.</p>
 	</div>
 </section>
 
@@ -25,7 +24,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/banner.jpg" alt="" data-position="center center" />
+			<img src="assets/images/week2.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -33,22 +32,23 @@ nav-menu: true
 					<h3>Week 1 - Introduction to the Course</h3>
 				</header>
 				<p>Overview of Course Materials and Peer Introductions</p>
-				<p> <strong>Review</strong> <a href="https://uncch.instructure.com/courses/50647/files?preview=6470971" target="_blank">Syllabus</a>
-				</p>
+				<p><strong>Review</strong> <a href="https://uncch.instructure.com/courses/64653/files/?preview=8283733" target="_blank">Syllabus</a></p>
+				<p><strong>Readings</strong> Nguyen, "Games: Agency as Art"; Burke, "Literature as Equipment for Living" <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a>
 			</div>
-		</div>
+		</div> 
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/week2.jpg" alt="" data-position="top center" />
+			<img src="assets/images/week3.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Week 2 - Frameworks for Play</h3>
 				</header>
-				<p><strong>Discuss:</strong> Caillois, "The Definition of Play"; Salen & Zimmerman, "Meaningful Play"; Burke, "Literature as Equipment for Living"; Nguyen, "Games: Agency as Art"</p>
-				<p> <strong>Readings</strong> <a href="https://uncch.instructure.com/courses/50647/files/folder/readings" target="_blank">Accessible via Canvas</a>
+				<p><strong>Discuss:</strong> Salen & Zimmerman, "Meaningful Play"; Jagoda, "Experimental Play"; Chang, 					"Close Play"; Flanagan, "Critical Play"</p>
+				<p><strong>Play:</strong> <em>Stardew Valley</em> and <em>Settlers of Catan</em>; <em>Octodad</em> and 					<em>Disco Elysium</em></p>
+				<p> <strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a>
 				</p>
 			</div>
 		</div>
@@ -60,14 +60,13 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Week 3 - Playing Nature</h3>
+					<h3>Week 3 - Tolkien and the Fantasy Tradition</h3>
 				</header>
-				<p><strong>Pastoral Poetry and the Farm Simulator</strong>
+				<p><strong>Myth, Legend, and Fairy Tale</strong>
 				</p>
-				<p><strong>Discuss:</strong> Theocritus, <em>Idyll</em> 1; Virgil, <em>Georgics</em> Book Two, <em>Eclogues</em> 1; Andrew Marvell, "The Garden"; William Wordsworth from <em>Lyrical Ballads</em></p>
-				<p><strong>Play:</strong> <em>Stardew Valley</em>
+				<p><strong>Discuss:</strong> Tolkien, "On Fairy Stories," and "Mythopoeia"
+				<p> <strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a>
 				</p>
-				<p> <strong>Readings</strong> <a href="https://uncch.instructure.com/courses/50647/files/folder/readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
 		</div>
 	</section>
@@ -82,12 +81,10 @@ nav-menu: true
 				</header>
 				<p><strong>Possessive Individualism and the Rise of the Novel</strong>
 				</p>
+				<p><strong>Play:</strong> <em>The Witcher III</em>
+				</p>
 				<p><strong>Discuss:</strong> Defoe, <em>Robinson Crusoe</em> (1719)
-				</p>
-				<p>M 01/29 - pp.5-105
-				</p>
-				<p>W 01/31 - pp.106-194
-				</p> 
+				
 			</div>
 		</div>
 	</section>
