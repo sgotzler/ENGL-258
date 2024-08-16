@@ -40,7 +40,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/week3.jpg" alt="" data-position="top center" />
+			<img src="assets/images/week2b.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -56,7 +56,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/week3.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/week3b.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -73,7 +73,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/week4.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/week4b.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -90,7 +90,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/week5.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/week5b.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -109,7 +109,7 @@ nav-menu: true
 	</section>
 		<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/week6.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/week6b.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -127,7 +127,7 @@ nav-menu: true
 	</section>
 		<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/week7.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/week7b.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -146,7 +146,7 @@ nav-menu: true
 	</section>
 		<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/week8a.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/week9.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -165,7 +165,7 @@ nav-menu: true
 	</section>
 		<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/week9.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/week10.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -185,7 +185,7 @@ nav-menu: true
 	</section>
 		<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/week10.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/week10b.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -204,7 +204,7 @@ nav-menu: true
 	</section>
 		<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/week11.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/week11b.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -224,7 +224,7 @@ nav-menu: true
 	</section>
 		<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/week12.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/week12b.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -242,7 +242,7 @@ nav-menu: true
 	</section>
 		<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/week15.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/week15b.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
