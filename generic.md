@@ -15,7 +15,7 @@ Students will be required to acquire copies of the following texts for the cours
 <ul>
 	<li>Bram Stoker, <em>Dracula</em> (1897) — <strong>ISBN-13:</strong> 978-0199564095</li>
 	<li>Arthur Conan Doyle, <em>The Hound of the Baskervilles</em> (1902) — <strong>ISBN-13:</strong> 	978-0198835226</li>
-</li></ul>
+</ul>
 
 All games will be provided for either as digital or hard copies in the Greenlaw Gameroom, or as PDF copies distributed on canvas.
 
@@ -52,6 +52,7 @@ These journals will be used to collect notes, observations, and insights generat
 The journals will be completed on a rolling basis throughout the term, using a 5pt scale (structure & organization – 1pt, critical insight – 2pt, and use of evidence – 2pt). Individual journal entries will be assessed, and grades recorded twice throughout the term:
 
 **Assessment for entries 1-4 – Friday 09.20.24 @ 11:59PM ET**
+
 **Assessment for entries 5-8 – Friday 11.01.24 @ 11:59PM ET**
 
 ---
@@ -66,9 +67,9 @@ Beyond that, portfolio contributions may take several different forms, for examp
 As such, portfolio contributions will differ slightly in the range of their components and the appearance of the final ‘product,’ however every contribution project will include the following: 
 
 - **Proposal** - a proposal outlining scope, purpose, and relevance of proposed game design
+- **Progress Report** - a report on design project’s progress, and identifying obstacles
 - **Critical Designer's Note** - an essay outlining the critical intention behind the game’s design
 - **Research Bibliography** - a bibliography of secondary and primary sources related to the project
-- **Progress Report** - a report on design project’s progress, and identifying obstacles
 - **Documentation** - rulebooks, relevant instructions, file packages, URL's, etc.
 - **Components** - final documents/layouts, visualizations, assets, physical components, etc.
   
