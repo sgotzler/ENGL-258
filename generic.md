@@ -49,7 +49,7 @@ In this course, we will be keeping course journals. These journals will be creat
 These journals will be used to collect notes, observations, and insights generated in the course of our critical play activities in class. These notes and observations will then form the basis of short critical reflections about the games we engage with during our in-class and extended play sessions as a part of the course. In their journal entries, students should use the literary and critical gaming concepts we discuss in class to combine a critical reflection about their situated experience of play, with an analytical discussion of the game’s formal qualities (i.e., aesthetics, mechanics, narrative, cultural context).
 
 *Expectations and Effort*: Each journal entry should range from 250-400 words in length and must be written in complete sentences and paragraph form. Finished journal entries should not take more than 30-45min each to draft from previously collected notes, however they should take at least 15min of effort.
-The journals will be completed on a rolling basis throughout the term, using a 5pt scale (structure & organization – 1pt, critical insight – 2pt, and use of evidence – 2pt). Individual journal entries will be assessed, and grades recorded twice throughout the term:
+The journals will be completed on a rolling basis throughout the term, using a 5pt scale (structure & organization – 1pt, critical insight – 2pt, and use of evidence – 2pt). Individual journal entries will be assessed, and grades recorded, twice throughout the term:
 
 **Assessment for entries 1-4 – Friday 09.20.24 @ 11:59PM ET**
 
@@ -77,3 +77,21 @@ As such, portfolio contributions will differ slightly in the range of their comp
 
 
 Proposals will be submitted in week 8, and final portfolio contributions will be due on **Monday 12.09.24**.
+
+---
+
+#### Required Activities and Assignment Due Dates
+
+- Play Journal Entries 1-4 — **09/20/24 @ 11:59PM ET**
+- **Extended Play:** *Wanderhome* — **10/01/24 @ 05:30PM ET**
+- **Extended Play:** *Blood on the Clocktower* — **10/15/24 @ 05:30PM ET**
+- **Extended Play:** *Unfathomable* — **10/29/24 @ 05:30PM ET**
+- Play Journal Entries 5-8 — **11/01/24 @ 11:59PM ET**
+
+- Project Proposal — **11/08/24 @ 11:59PM ET**
+- Progress Report — **11/25/24 @ 11:59PM ET**
+- Portfolio Final Project — **12/09/24 @ 11:59PM ET**
+- **Final Exam Period:** Portfolio Exhibition — **12/10/24 @ 04:00PM ET**
+
+
+
