@@ -65,7 +65,7 @@ nav-menu: true
 				</header>
 				<p><strong>Myth, Legend, and Fairy Tale</strong>
 				</p>
-				<p><strong>Discuss:</strong> Tolkien, "On Fairy Stories," and "Mythopoeia"
+				<p><strong>Discuss:</strong> Tolkien, "On Fairy Stories," and "Mythopoeia"</p>
 				<p> <strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a>
 				</p>
 			</div>
@@ -84,7 +84,7 @@ nav-menu: true
 				</p>
 				<p><strong>Play:</strong> <em>The Witcher III</em>
 				</p>
-				<p><strong>Discuss:</strong> Defoe, <em>Robinson Crusoe</em> (1719)
+				<p><strong>Discuss:</strong> Defoe, <em>Robinson Crusoe</em> (1719)</p>
 				
 			</div>
 		</div>
