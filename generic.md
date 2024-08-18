@@ -2,7 +2,7 @@
 layout: post
 title: Assignments and Materials
 description: required texts, guidelines, and due dates 
-image: assets/images/assignments.jpg
+image: assets/images/assignments2.png
 nav-menu: true
 ---
 
