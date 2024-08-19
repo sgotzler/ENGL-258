@@ -76,7 +76,7 @@ As such, portfolio contributions will differ slightly in the range of their comp
 *Expectation and Effort:* Students will spend the last 3-4 weeks of the term developing their portfolio contributions. This process will begin with the submission of a brief, but formal, proposal for their portfolio contribution, continue through a sequence of in-class workshops covering research, design, and production, leading onto a progress report on the state of the project near the end of the semester, and culminating in an class exhibition during the final exam period where we will present and play our games as a class.
 
 
-Proposals will be submitted in week 8, and final portfolio contributions will be due on **Monday 12.09.24**.
+Proposals will be submitted in week 12, and final portfolio contributions will be due on **Monday 12.09.24**.
 
 ---
 
