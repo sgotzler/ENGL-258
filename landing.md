@@ -229,7 +229,7 @@ nav-menu: true
 				<p><strong>From Proposal to Prototype</strong>
 				</p>
 				<p><strong>M/W - 11/04-06</strong> Goal Setting and Group Formation</p>
-				<p><strong>M/w - 11/11-13</strong> Research and Design Workshops</p>
+				<p><strong>M/W - 11/11-13</strong> Research and Design Workshops</p>
 				<p><strong>M/W - 11/18-20</strong> Production and Prototyping Workshops</p>
 			</div>
 		</div>
