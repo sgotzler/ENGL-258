@@ -263,8 +263,6 @@ nav-menu: true
 				</p>
 				<p><strong>M - 12/02</strong> Review and Revision Workshop</p>
 				<p><strong>W - 12/04</strong> Conclusion</p>
-				<p><strong>Submit:</strong> Portfolio Contributions <strong>DUE Monday, 12/09</strong>
-				</p>
 			</div>
 		</div>
 	</section>
