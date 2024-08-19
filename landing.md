@@ -32,7 +32,7 @@ nav-menu: true
 					<h3>Week 1 - Introduction to the Course</h3>
 				</header>
 				<p>Overview of Course Materials and Peer Introductions</p>
-				<p><strong>M - 08/19</strong> Review <a href="https://uncch.instructure.com/courses/64653/files/?preview=8283733" target="_blank">Course Syllabus</a></p>
+				<p><strong>M - 08/19</strong> Review <a href="https://uncch.instructure.com/courses/64653/files/?preview=8334098" target="_blank">Course Syllabus</a></p>
 				<p><strong>W - 08/21</strong> Discuss Nguyen and Burke</p>
 				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
