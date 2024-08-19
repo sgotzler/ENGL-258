@@ -261,7 +261,7 @@ nav-menu: true
 				</header>
 				<p><strong>Course Wrap-Up and Feedback Survey</strong>
 				</p>
-				<p><strong>M - 12/02</strong> Review and Revision Workshop</p>
+				<p><strong>M - 12/02</strong> Playtesting Workshop</p>
 				<p><strong>W - 12/04</strong> Conclusion</p>
 			</div>
 		</div>
