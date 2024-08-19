@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Gameplay Activities
+description: learning through play
 image: assets/images/side-quest2.png
 nav-menu: true
 ---
