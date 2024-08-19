@@ -24,7 +24,7 @@ nav-menu: true
 </p>
 
 <h2 id="content">Extended Play Sessions</h2>
-<p>In addition to our normal class meetings, we will be holding several “extended play sessions” throughout the term. These will operate like screenings for a film course and will provide us with the space and time necessary to engage with long-form gameplay of select titles. 
+<p>In addition to our normal class meetings, we will be holding several extended play sessions throughout the term. These will operate like screenings for a film course and will provide us with the space and time necessary to engage with long-form gameplay of select titles. 
 These are mandatory events and will serve as out of class time towards your credit hours, the same way reading a novel outside of class for homework would. 
 </p>
 
