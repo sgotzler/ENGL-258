@@ -31,11 +31,11 @@ These are mandatory events and will serve as out of class time towards your cred
 <p>
 We will hold three extended play sessions throughout the term during weeks 7, 9, and 11: 
 
-<p><em>Wanderhome</em> – <strong>Tuesday 10.01.24 | 5:00-7:30PM ET in GL 316</strong>
+<p><em>Wanderhome</em> – <strong>Tuesday 10.01.24 | 6:00-8:30PM ET in GL 316</strong>
 </p>
-<p><em>Blood on the Clocktower</em> – <strong>Tuesday 10.15.24 | 5:00-7:30PM ET in GL 316</strong>
+<p><em>Blood on the Clocktower</em> – <strong>Tuesday 10.15.24 | 6:00-8:30PM ET in GL 316</strong>
 </p>
-<p><em>Unfathomable</em> – <strong>Tuesday 10.29.24 | 5:00-7:30PM ET in GL 316</strong>
+<p><em>Unfathomable</em> – <strong>Tuesday 10.29.24 | 6:00-8:30PM ET in GL 316</strong>
 </p>
 
 <p><strong>Find out more about each of these games below:</strong></p>
