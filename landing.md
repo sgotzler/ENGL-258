@@ -101,9 +101,9 @@ nav-menu: true
 				</header>
 				<p><strong>Textual Ruins and Metafictional Gestures</strong>
 				</p>
-				<p><strong>M - 09/16</strong> Play and Discuss <em>The Witcher III</em>
+				<p><strong>M - 09/16</strong> Discuss Tolkien, <em>The Lord of the Rings</em> (1954-5)
 				</p>
-				<p><strong>W - 09/18</strong> Discuss Tolkien, <em>The Lord of the Rings</em> (1954-5)
+				<p><strong>W - 09/18</strong> Play and Discuss <em>The Witcher III</em>
 				</p>
 				<p><strong>Readings</strong> <a href="https://uncch.instructure.com/courses/64653/files/folder/Readings" target="_blank">Accessible via Canvas</a></p>
 			</div>
