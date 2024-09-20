@@ -83,9 +83,9 @@ Proposals will be submitted in week 12, and final portfolio contributions will b
 #### Required Activities and Assignment Due Dates
 
 - Play Journal Entries 1-4 — **09/20/24 @ 11:59PM ET**
-- **Extended Play:** *Wanderhome* — **10/01/24 @ 06:00PM ET**
+- **Extended Play:** *Wanderhome* — **10/01/24 @ 05:00PM ET**
 - **Extended Play:** *Blood on the Clocktower* — **10/15/24 @ 06:00PM ET**
-- **Extended Play:** *Unfathomable* — **10/29/24 @ 06:00PM ET**
+- **Extended Play:** *Unfathomable* — **10/29/24 @ 05:00PM ET**
 - Play Journal Entries 5-8 — **11/01/24 @ 11:59PM ET**
 
 - Project Proposal — **11/08/24 @ 11:59PM ET**
