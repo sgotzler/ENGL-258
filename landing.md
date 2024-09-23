@@ -116,9 +116,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Week 6 - Character Creation</h3>
+					<h3>Week 6 - Playing in Faërie</h3>
 				</header>
-				<p><strong>Agency and Self-Invention</strong>
+				<p><strong>Roleplay and Collaborative Storytelling</strong>
 				</p>
 				<p><strong>M - 09/23 WELLNESS DAY</strong> </p>
 				<p><strong>W - 09/25</strong> Discuss Peterson, "The Two Cultures" and <em>Dungeons and Dragons, 1st Ed.</em></p>
@@ -133,9 +133,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Week 7 - Playing in Faerie</h3>
+					<h3>Week 7 - Character Creation</h3>
 				</header>
-				<p><strong>Roleplay and Collaborative Storytelling</strong>
+				<p><strong>Agency and Self-Invention</strong>
 				</p>
 				<p><strong>M - 09/30</strong> Character Creation Exercise</p>
 				<p><strong>T - 10/01 EXT Play</strong> <em>Wanderhome</em>
