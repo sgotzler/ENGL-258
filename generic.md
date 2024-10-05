@@ -62,7 +62,7 @@ The capstone assignment for this course will be a contribution to a class portfo
 
 These games can, and perhaps should, have a clear narrative element, but more importantly, they must present and elaborate some sort of critical argument or theoretical insight — about games, or about literature, or both — drawn from, or inspired by, our course conversations throughout the term. 
 
-Beyond that, portfolio contributions may take several different forms, for example: as a campaign narrative, monster manual or game world sourcebook, as a character creation system, a journaling game, prompt-based collaborative exercise, a choice-based branching narrative, or interactive visual novel, to name only a few. In crafting their designs students may choose to create digital games using software like TWINE, or create analog games utilizing pen and paper, or incorporating basic components such as dice or a simple deck of cards.
+Beyond that, portfolio contributions may take several different forms, for example: as a campaign narrative, monster manual or game world sourcebook, as a character creation system, a journaling game, prompt-based collaborative exercise such as map-drawing, a choice-based branching narrative, or interactive visual novel, to name only a few. In crafting their designs students may choose to create digital games using software like TWINE, or create analog games utilizing pen and paper, or incorporating basic components such as dice or a simple deck of cards.
 
 As such, portfolio contributions will differ slightly in the range of their components and the appearance of the final ‘product,’ however every contribution project will include the following: 
 
@@ -73,7 +73,7 @@ As such, portfolio contributions will differ slightly in the range of their comp
 - **Documentation** - rulebooks, relevant instructions, file packages, URL's, etc.
 - **Components** - final documents/layouts, visualizations, assets, physical components, etc.
   
-*Expectation and Effort:* Students will spend the last 3-4 weeks of the term developing their portfolio contributions. This process will begin with the submission of a brief, but formal, proposal for their portfolio contribution, continue through a sequence of in-class workshops covering research, design, and production, leading onto a progress report on the state of the project near the end of the semester, and culminating in an class exhibition during the final exam period where we will present and play our games as a class.
+*Expectation and Effort:* Students will spend the last 4-5 weeks of the term developing their portfolio contributions. This process will begin with the submission of a brief, but formal, proposal for their portfolio contribution, continue through a sequence of in-class workshops covering research, design, and production, leading onto a progress report on the state of the project near the end of the semester, and culminating in a class exhibition during the final exam period where we will present and play our games together.
 
 
 Proposals will be submitted in week 12, and final portfolio contributions will be due on **Monday 12.09.24**.
