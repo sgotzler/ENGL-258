@@ -51,9 +51,9 @@ These journals will be used to collect notes, observations, and insights generat
 *Expectations and Effort*: Each journal entry should range from 250-400 words in length and must be written in complete sentences and paragraph form. Finished journal entries should not take more than 30-45min each to draft from previously collected notes, however they should take at least 15min of effort.
 The journals will be completed on a rolling basis throughout the term, using a 5pt scale (structure & organization – 1pt, critical insight – 2pt, and use of evidence – 2pt). Individual journal entries will be assessed, and grades recorded, twice throughout the term:
 
-**Assessment for entries 1-4 – Friday 09.20.24 @ 11:59PM ET**
+**Assessment for entries 1-4 – Sunday 09.22.24 @ 11:59PM ET**
 
-**Assessment for entries 5-8 – Friday 11.01.24 @ 11:59PM ET**
+**Assessment for entries 5-8 – Sunday 11.03.24 @ 11:59PM ET**
 
 ---
 
